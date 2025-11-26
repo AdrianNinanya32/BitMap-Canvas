@@ -1,0 +1,13 @@
+#Getting rid of build and IDE specific files. This project was originally build in Eclipse so eclipse specific files were removed
+# Gradle
+.gradle/
+build/
+# IntelliJ/Android Studio
+.idea/
+.vscode/
+# Compiled classes and packaging
+bin/
+out/
+*.iml
+# Log files
+*.log

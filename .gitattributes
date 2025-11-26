@@ -1,0 +1,6 @@
+# Set default behavior for checkout and diff
+* text=auto
+
+# Specify that gradlew is executable
+gradlew text eol=lf
+gradlew.bat text eol=crlf
