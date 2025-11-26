@@ -11,3 +11,5 @@ out/
 *.iml
 # Log files
 *.log
+# Ignore MacOS files
+.DS_Store
