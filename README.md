@@ -8,11 +8,13 @@
 
 ## Demo
 
-<img src="assets/BitMap Canvas Gif Demo.gif" alt="Application Demo" width="400">
+<div align="center">
+<img src="assets/BitMap Canvas Gif Demo.gif" alt="Application Demo" width="600">
 <br>
 <br>
-<img src="assets/ReadMe1.png" alt="Screenshot" width="400">
+<img src="assets/ReadMe1.png" alt="Screenshot" width="600">
 <br>
+</div>
 
 ---
 ## Features
